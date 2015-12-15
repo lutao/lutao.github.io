@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[LT's Blog]]></title>
+  <subtitle><![CDATA[Keep Calm and Carry On]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://lutao.github.io/"/>
+  <updated>2015-12-11T09:39:48.137Z</updated>
+  <id>http://lutao.github.io/</id>
+  
+  <author>
+    <name><![CDATA[LT]]></name>
+    <email><![CDATA[55517448@qq.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[10年IT人生路]]></title>
+    <link href="http://lutao.github.io/2015/12/11/10%E5%B9%B4IT%E4%BA%BA%E7%94%9F%E8%B7%AF/"/>
+    <id>http://lutao.github.io/2015/12/11/10年IT人生路/</id>
+    <published>2015-12-11T09:39:48.137Z</published>
+    <updated>2015-12-11T09:39:48.137Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="生活和感悟" scheme="http://lutao.github.io/tags/%E7%94%9F%E6%B4%BB%E5%92%8C%E6%84%9F%E6%82%9F/"/>
+    
+      <category term="杂项" scheme="http://lutao.github.io/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+  </entry>
+  
+</feed>
